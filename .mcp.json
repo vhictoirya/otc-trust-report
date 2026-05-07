@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "goldrush": {
+      "command": "npx",
+      "args": ["-y", "@covalenthq/goldrush-cli", "mcp"],
+      "env": {
+        "GOLDRUSH_API_KEY": "cqt_rQtBdFCCX6VGjm4d7yBBtKyCbhMQ"
+      }
+    }
+  }
+}
