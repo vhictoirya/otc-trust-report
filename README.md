@@ -6,7 +6,7 @@
 
 Know who you're trading with before the deal closes. OTC Trust Report generates a structured, scored trust profile for any EVM or Solana wallet in under 30 seconds, using real on-chain data rather than self-reported claims.
 
-**Built for the GoldRush / Covalent Hackathon** — Compliance & Risk track.
+**Built for the GoldRush / Covalent Hackathon** 
 
 ---
 
